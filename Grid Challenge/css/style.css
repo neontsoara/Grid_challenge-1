@@ -1,0 +1,91 @@
+body {
+  background-color: black;
+}
+
+#navbar {
+  font-size: 35px;
+  word-spacing: 20px;
+  text-align: center;
+  text-decoration: inherit;
+  font-family: 'Kaushan Script', cursive;
+
+}
+
+p {
+  line-height: 50px;
+  left: 30px;
+  margin-top: 70px;
+  width: 780px;
+  margin-left: 70px;
+  font-family: 'Srisakdi', cursive;
+  font-weight: 700;
+  font-size: 23px;
+  height: 70px;
+  color: antiquewhite;
+
+}
+
+.aboutMe{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(1,1fr);
+  padding: 80px;       
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(1,1fr);
+  margin-right: 120px;
+}
+
+.coach {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(1,1fr);
+}
+
+img {
+  height: 280px;
+  width: 320px;
+  border: solid grey;
+  margin: 60px;
+  margin-left: 170px;  
+}
+
+.sam {
+  top: 150px;
+  left: 55px;
+  margin-right:100px;
+}
+
+.nunu {
+  bottom: 135px;
+  margin-right: 130px;
+}
+
+.adam {
+  bottom: 415px;
+  margin-right: 170px;
+  margin: 0;
+}
+ 
+
+h3 {
+  bottom: 685px;
+  font-size: 35px;
+  color: aqua;
+  text-align: center;
+}
+
+.para1 {
+  font-family: 'Srisakdi', cursive;
+  font-weight: 700;
+  font-size: 23px;
+  color: antiquewhite;
+  text-align: center;
+}
+
+#navbar a:hover {
+  color: bisque;
+}
