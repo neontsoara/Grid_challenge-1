@@ -9,3 +9,6 @@ following was required to  complete the challenge:
 
 #tech used:
 HTML & CSS
+
+#livelink:
+https://neontsoara.github.io/Grid_challenge-1/.
